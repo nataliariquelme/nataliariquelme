@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/nataliariquelme/nataliariquelme/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png" width="10%" alt="Banner">
+  <img src="https://github.com/nataliariquelme/nataliariquelme/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png" width="50%" alt="Banner">
 </div>
 
 <h3>About me </h3>
