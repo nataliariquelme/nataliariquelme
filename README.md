@@ -13,3 +13,9 @@ I'm studying for a master's degree in statistics. I enjoy statistical computing,
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I studied public administration but I always liked programming more. Now I dedicate 100% of my time to learn and work with R and statistics !!!
 
+<h3>Upcoming events R Ladies Chile</h3>
+
+<div align="center">
+  <img src="https://github.com/nataliariquelme/nataliariquelme/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png" width="100%" alt="Banner">
+</div>
+<h3>About me </h3>
