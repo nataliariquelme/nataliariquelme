@@ -16,6 +16,5 @@ I'm studying for a master's degree in statistics. I enjoy statistical computing,
 <h3>Upcoming events R Ladies Chile</h3>
 
 <div align="center">
-  <img src="https://github.com/nataliariquelme/nataliariquelme/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png" width="100%" alt="Banner">
+  <img src="https://github.com/nataliariquelme/nataliariquelme/blob/main/intro_tidy.png" width="100%" alt="Banner">
 </div>
-<h3>About me </h3>
