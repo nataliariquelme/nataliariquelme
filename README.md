@@ -4,7 +4,7 @@
 
 <h3>About me </h3>
 
-I'm studying for a master's degree in statistics. I enjoy statistical computing, modeling, programming and open science. I am co-organizer of R Ladies Concepción, a diversity initiative to achieve proportional representation in the R community by encouraging, inspiring and empowering people of currently underrepresented genders in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educators or users. 
+I have a master degree in statistics. I enjoy statistical computing, modeling, programming and open science. I am co-organizer of R Ladies Concepción, a diversity initiative to achieve proportional representation in the R community by encouraging, inspiring and empowering people of currently underrepresented genders in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educators or users. 
                                                                                                                                                 
 - 🔭 I’m currently working on the organization of free workshops at R Ladies Chile
 - 🌱 I’m learning data minning with Python 
